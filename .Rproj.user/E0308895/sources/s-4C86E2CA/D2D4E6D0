@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570274759242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D2D4E6D0",
+    "lastKnownWriteTime" : 1562080815,
+    "last_content_update" : 1562080815,
+    "path" : "~/KNOWLEDGE_MANAGEMENT_TOOL/SHS_TABLE1_DEMO_kids_quarters_2018_test2/shs_master/apps/app.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "0,46",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

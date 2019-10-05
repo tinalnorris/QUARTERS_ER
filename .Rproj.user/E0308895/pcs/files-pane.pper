@@ -1,0 +1,9 @@
+{
+    "path" : "~/KNOWLEDGE_MANAGEMENT_TOOL/SHS_TABLE1_DEMO_kids_quarters_2018_test2/quarters",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
